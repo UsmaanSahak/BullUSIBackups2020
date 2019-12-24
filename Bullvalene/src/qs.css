@@ -1,0 +1,46 @@
+html,body  {
+	width:100vw;
+	overflow-x:hidden;
+	margin:0px;
+	padding:0px;
+}
+p {
+	font-family:Ubuntu;
+	text-align:center;
+	margin:0px;
+}
+/*
+<div id="explainHardContainer">
+			<div id="explainContainer">
+			<img id="explainImg" src="src/explain.png"/>
+			</div>
+			<div id="hardContainer">
+			<img id="hardImg" src="src/bvhardware.png"/>
+			</div>
+			</div>
+*/
+#topBar {
+	background:black;
+	width:100vw;
+}
+#page {
+	width:700px;
+	/*border:10px solid black;*/
+	margin:auto;
+	margin-top:100px;
+
+}
+.fit {
+	float:left;
+}
+.fitn {
+	float:left;
+	clear:both;
+}
+#WelcomeText {
+	height:70px;
+	width:500px;
+}
+#TechStack {
+	padding:15px;
+}
